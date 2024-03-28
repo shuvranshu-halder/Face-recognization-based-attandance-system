@@ -1,5 +1,6 @@
 # Face-recognization-based-attandance-system
-Flowchart-
+Flowchart-  
+
 ● For the first time, the admin calls the students to take their pictures to
 register them in the database. A new registration cannot be done without
 admin permission. Because here it is necessary to enter a password by admin
