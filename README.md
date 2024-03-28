@@ -29,13 +29,16 @@ face.
 ● Whenever it detects the student it inserts this record in an excel sheet and shows
 it for confirmation.
 
-● We created separate lists for each data column of an entry
+● We created separate lists for each data column of an entry  
+
 ● The cascade classifier recognizes multiple faces from the image taken by the
-camera
+camera  
+
 ● Our system calculates the confidence value of each face. if it passes the
-minimum criteria(say,100) then those entries are recorded in those lists.
+minimum criteria(say,100) then those entries are recorded in those lists.  
+
 ● Once all the entries are done, the system just appends the lists using a zip
-function.
+function. 
+
 ● So, all attendance is taken in a single computation by our face recognition
 system
-● We will show the practical implementation of all of these in our upcoming slides.
