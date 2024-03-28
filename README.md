@@ -33,6 +33,8 @@ it for confirmation.
 
 ● The cascade classifier recognizes multiple faces from the image taken by the
 camera  
+● Our system calculates the confidence value of each face. if it passes the
+minimum criteria(say,100) then those entries are recorded in those lists. 
 
  
 
